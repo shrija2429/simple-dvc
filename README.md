@@ -21,3 +21,10 @@ dvc init
 
 dvc add data_given/winequality.csv
 
+
+online update for readme
+git add . && git commit -m "update Readme.md"
+
+git remote add origin https://github.com/shrija2429/simple-dvc.git
+git branch -M main
+git push origin main
