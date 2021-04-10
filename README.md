@@ -1,6 +1,4 @@
-create env
 
-```bash
 conda create -n wineq python=3.7 -y
 
 activate env
@@ -13,6 +11,9 @@ install the req
 ```bash
 pip install -r requirements.txt
 ```
+
+
+https://drive.google.com/drive/folders/1xw0XX-WK74uxtFFLySbtnX-ODdmdK5Ec
 
 git init
 
